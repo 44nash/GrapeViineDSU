@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AALinesLogo" size="50.000000 52.597404" />
+    <ImageTarget name="BadBitty" size="50.000000 62.538227" />
+    <ImageTarget name="Future" size="50.000000 67.990074" />
+    <ImageTarget name="Slpot" size="50.000000 36.572201" />
+    <ImageTarget name="TonyMontana" size="50.000000 65.942032" />
+  </Tracking>
+</QCARConfig>
